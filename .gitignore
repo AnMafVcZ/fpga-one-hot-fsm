@@ -1,0 +1,9 @@
+*.jou
+*.log
+*.str
+*.pb
+.Xil/
+*.bit
+obj_dir/
+*.vcd
+*.wlf
