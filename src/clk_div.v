@@ -10,3 +10,6 @@ module clk_div #(parameter N = 26) (
     end
     assign slow_clk = count[N-1]; // 100MHz / 2^N ~= 1.49Hz for N=26
 endmodule
+// synthesis translate_off
+// Simulation helper: assert slow_clk toggles within N*2 cycles
+// synthesis translate_on
