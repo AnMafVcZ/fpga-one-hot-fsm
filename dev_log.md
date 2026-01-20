@@ -4,3 +4,4 @@
 ## Jan 5 — state transitions verified in simulation
 ## Jan 9 — seven-segment decoder wired up
 ## Jan 14 — constraints file mapped to Nexys A7 pinout
+## Jan 19 — synthesized and deployed on board
