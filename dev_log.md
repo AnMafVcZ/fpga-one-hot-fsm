@@ -5,3 +5,4 @@
 ## Jan 9 — seven-segment decoder wired up
 ## Jan 14 — constraints file mapped to Nexys A7 pinout
 ## Jan 19 — synthesized and deployed on board
+## Jan 26 — added reset synchronizer module
