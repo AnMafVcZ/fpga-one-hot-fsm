@@ -28,3 +28,11 @@ constraints/
 - Synthesis / implementation: Vivado 2024.1
 - Simulation: QuestaSim
 - Board: Digilent Nexys A7-100T
+
+## Simulation
+
+```bash
+make sim   # requires Verilator
+```
+
+Overrides `N=3` in the testbench so slow_clk toggles at 80 ns intervals instead of 671 ms.
