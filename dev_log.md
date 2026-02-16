@@ -8,3 +8,4 @@
 ## Jan 26 — added reset synchronizer module
 ## Feb 2 — verilator Makefile added
 ## Feb 9 — testbench cleanup and sim verified
+## Feb 16 — README updated with usage
