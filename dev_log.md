@@ -9,3 +9,4 @@
 ## Feb 2 — verilator Makefile added
 ## Feb 9 — testbench cleanup and sim verified
 ## Feb 16 — README updated with usage
+## Feb 23 — minor timing fix on slow_clk edge
